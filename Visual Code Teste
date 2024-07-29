@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeira Aula</title>
+</head>
+
+<body>
+
+    <h1>Primeiro paragrafo</h1>
+    <h2>Segundo paragrafo</h2>
+    <h3>Terceiro paragrafo</h3>
+    <h4>Quarto patagrafo</h4>
+    <h5>Quinto paragrafo</h5>
+    <h6>Sexto paragrafo</h6>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ab quas labore nobis, excepturi magni nulla
+        laboriosam officiis, ipsa iusto explicabo eaque molestiae distinctio ullam pariatur nisi modi consequatur velit.
+    </p>
+
+    <button>clique aqui</button>
+
+    <ol>
+        <li>Lucas</li>
+        <li>Dudu</li>
+        <li>Hacker</li>
+        <li>Abel</li>
+    <ol>
+
+    <ul>
+        <li>Laranja</li>
+        <li>Banana</li>
+        <li>Maracuja</li>
+        <li>Morango</li>
+        <li>Kiwi</li>
+     </ul>
+</body>
+
+</html>
