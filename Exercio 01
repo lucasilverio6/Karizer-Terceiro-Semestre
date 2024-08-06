@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <a href="https://www.nike.com.br"> visite esse site</a>
+    o <abbr title="Site Nike">NK</abbr> foi fundado em 1991
+    <br>
+    <hr>
+    <br>
+    <address>
+        Escrito por <a href="https://www.nike.com.br"> Nike </a>.
+        <br> Visite-nos em: Endereço: Rua 647, Blumenau - SC <br>
+    </address>
+    <br>
+    <hr>
+    <br>
+    <ul>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+        <li>item 4</li>
+        <li>item 5</li>
+    </ul>
+    <ul style="list-style-type: square;">
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+        <li>item 4</li>
+        <li>item 5</li>
+    </ul>
+    <br>
+    <hr>
+    <br>
+    <bdo dir="rtl">este texto esta invertido</bdo>
+    
+</body>
+
+</html>
