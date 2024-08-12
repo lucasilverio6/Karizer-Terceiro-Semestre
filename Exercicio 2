@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-color: black;">
+    
+    <h1>Galeria Imagens</h1>
+    <img src="imagens/gabigol.jpg" alt="Gabigol" width="300px" height="auto">
+    <a href="https://odia.ig.com.br/esporte/fabricio-lopes/2024/03/6808590-gabigol-fica-mais-proximo-de-deixar-o-flamengo.html"target="_blank" style="color: red;">Predestinado</a>
+    <img src="imagens/gabriel.jpg" alt="Gabriel" width="300px" height="auto">
+    <a href="https://www.flaresenha.com/numeros-constatam-gabigol-como-o-melhor-atacante-brasileiro-na-atualidade"target="_blank" style="color: red;">Gabigol</a>
+    <img src="imagens/predestinado.jpg" alt="Predestinado" width="300px" height="auto">
+    <a href="https://www.uol.com.br/esporte/futebol/ultimas-noticias/2023/01/12/gabigol-faz-4-anos-de-fla-com-lugar-na-eternidade-e-mirando-taca-que-falta.htm"target="_blank" 
+    style="color: red;">Framengo</a>
+    
+    
+
+
+    
+</body>
+</html>
