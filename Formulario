@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Formulario Elaborado</title>
+</head>
+
+    <body>
+
+        <header>
+            <H1>Formulário</H1>
+
+        </header>
+
+        <main>
+            <tr class="conteudo_pessoais">
+                
+                Dados Pessoais
+                <td>Nome</td><br>
+                <td>Endereço</td><br>
+                <td>Cidade</td><br>
+                <td>Estado</td><br>
+                
+            </tr>
+            <tr class="conteudo profissionais">
+
+                Dados Profissonais
+                <td>Natureza do Cargo</td>
+            </tr>
+
+        </main>
+
+        
+
+    </body>
+
+</html>
